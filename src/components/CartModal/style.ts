@@ -14,6 +14,7 @@ export const StyledCartModalBox = styled.div`
     z-index: 1001;
 
     dialog{
+      
         animation: ${AnimationFadeIn} .5s;
         width: 100%;
         max-width: 500px;
